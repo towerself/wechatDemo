@@ -1,0 +1,18 @@
+{
+  "name": "wechat",
+  "version": "1.0.0",
+  "description": "这1这��微信公众号藉项目\u001b[D\u001b[D\u001b\u001b[C\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C号项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/towerself/wechatDemo.git"
+  },
+  "keywords": [
+    "wechat"
+  ],
+  "author": "",
+  "license": "ISC"
+}
